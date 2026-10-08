@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github-banner.png" width="100%" />
+  <img src="github-banner.png" width="100%" height="180" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Vishnu Kumar Singh</h1>
@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-MCA (AI/ML) Student • Java • Spring Boot • React • Python • MySQL
+MCA (AI/ML) • Java • Spring Boot • React • Python • MySQL • MongoDB
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@ MCA (AI/ML) Student • Java • Spring Boot • React • Python • MySQL
 - 🎓 MCA student specializing in **Artificial Intelligence & Machine Learning**
 - 💻 Aspiring **Java Developer & Full Stack Developer**
 - ☕ Building applications using **Java, Spring Boot and React**
-- 🧠 Practicing **Data Structures & Algorithms**
+- 🧠 Strong interest in **Data Structures & Algorithms**
 - 🤖 Interested in **Artificial Intelligence & Machine Learning**
 - 🔨 Believe in **learning by building real-world projects**
 - 🚀 Currently looking for **Software Development opportunities**
@@ -38,26 +38,31 @@ MCA (AI/ML) Student • Java • Spring Boot • React • Python • MySQL
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
+
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,javascript" />
 </p>
 
 ### ⚙️ Backend
+
 <p>
   <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
 </p>
 
 ### 🎨 Frontend
+
 <p>
   <img src="https://skillicons.dev/icons?i=react,html,css" />
 </p>
 
 ### 🗄️ Database
+
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 ### 🔧 Tools
+
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
@@ -67,21 +72,27 @@ MCA (AI/ML) Student • Java • Spring Boot • React • Python • MySQL
 ## 📌 Featured Projects
 
 ### 👤 Face Recognition & Attendance System
+
 Full-stack web application for automated attendance using face recognition, user authentication and real-time face detection.
 
 ### 🧠 Vishnu NeuroDx
+
 AI-powered brain tumor detection and medical report generation application using AI/ML technologies.
 
 ### 🤖 NLP Chatbot
+
 Natural Language Processing based chatbot designed for intelligent user interaction.
 
 ### 🏦 Smart Banking System
+
 Java-based banking application implementing Object-Oriented Programming concepts and banking operations.
 
 ### 📊 AI Dashboard
+
 Spring Boot + React based dashboard application with backend APIs and database integration.
 
 ### 🗺️ CrimeMap India
+
 Web-based application designed to provide crime-related information and visualization.
 
 ---
@@ -89,11 +100,13 @@ Web-based application designed to provide crime-related information and visualiz
 ## 💼 Internship Experience
 
 ### 🌐 CDAC Patna
+
 **Web Technology Intern**
 
-Worked on web technology concepts and practical development tasks.
+Gained practical exposure to web technologies and application development.
 
 ### 🤖 NIELIT Muzaffarpur
+
 **Machine Learning Intern**
 
 Gained practical exposure to Machine Learning concepts and applications.
